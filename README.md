@@ -68,8 +68,7 @@ Future Prospects: The model we have created is not perfect but it’s completely
 
 
 Created Solely by:
-Yash Rajoria (102103526)
-Varada Gupta (102103542)
+Sukirti Sharma
 
 
 
